@@ -2,7 +2,7 @@
 - 👀 I’m interested in Go, AI, Python, engineering team management
 - 🌱 I’m currently learning more about Go
 - 💞️ I’m looking to collaborate on not sure yet
-- 📫 How to reach me jeffrey.a.hanson@gmail.com, twitter @Jeff_Hanson_19
+- 📫 How to reach me jeffrey.a.hanson@gmail.com
 
 <!---
 Jeff-Hanson/Jeff-Hanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
